@@ -1,5 +1,5 @@
 //
-// Created by YUFEI GE 260825264
+
 //
 //#ifndef COMP322_ASSN2_BLACKJACK_H
 //#define COMP322_ASSN2_BLACKJACK_H
