@@ -1,4 +1,4 @@
-// Created by YUFEI GE 260825264
+
 #include "blackjack.h"
 
 int Card::getValue(rank) {
