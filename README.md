@@ -1,4 +1,4 @@
-# comp322ass2
+# c++ exercise 2: blackJack Game
 HELLO! This is about C++ class exercise. 
 
 It is a card game between human and computer;) see who wins? <br/>
