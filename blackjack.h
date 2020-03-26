@@ -1,6 +1,4 @@
-//
-// Created by YUFEI GE 260825264
-//
+
 #ifndef BLACKJACK_H
 #define BLACKJACK_H
 #include <vector>
